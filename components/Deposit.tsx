@@ -10,7 +10,7 @@ export default function DepositFunds() {
     return (
         <Stack spacing={8}>
             <Box mt={10}>
-                <Text fontSize={"2xl"} mb={8}>You currently don't have a goal set.</Text>
+                <Text fontSize={"2xl"} mb={8}>You currently do not have a goal set.</Text>
                 <Text>Deposit funds will be transferred back once you completed the task</Text>
             </Box>
             <Box>
